@@ -50,7 +50,7 @@ Encontrei alguns problemas para rodar o projeto
 
 Tentei limpar cache e reinstalar as bibliotecas que esta reclamando. 
 
-![image-20220611214515025](C:\Users\barce\AppData\Roaming\Typora\typora-user-images\image-20220611214515025.png)
+![image-20220611214515025](C:\Users\barce\AppData\Roaming\Typora\typora-user-images\erro async-storage.png)
 
 Tentei instalar o react-native-community/async-storage , parou de reclamar, mas agora fica avisando que essa biblioteca é absoleta que devo atualizar pra biblioteca que eu tava usando mas que tava dando problema.
 
@@ -68,7 +68,7 @@ precisei adicionar no babel.config.js o seguinte:
 
 ficando dessa forma:
 
-![image-20220611223440227](C:\Users\barce\AppData\Roaming\Typora\typora-user-images\image-20220611223440227.png)
+<img src="C:\Users\barce\AppData\Roaming\Typora\typora-user-images\babel-config.png" alt="image-20220611223440227" />
 
 
 
