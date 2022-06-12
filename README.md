@@ -48,11 +48,17 @@ Para o projeto rodar corretamente é preciso utilizar uma API de autenticação,
 
 Encontrei alguns problemas para rodar o projeto
 
-Tentei limpar cache e reinstalar as bibliotecas que esta reclamando. 
+Tentei limpar cache e reinstalar as bibliotecas que está reclamando. 
 
-![image-20220611214515025](C:\Users\barce\AppData\Roaming\Typora\typora-user-images\erro async-storage.png)
 
-Tentei instalar o react-native-community/async-storage , parou de reclamar, mas agora fica avisando que essa biblioteca é absoleta que devo atualizar pra biblioteca que eu tava usando mas que tava dando problema.
+
+<img src="C:\Users\barce\AppData\Roaming\Typora\typora-user-images\erro-async-storage.png" alt="erro-async-storage"/>
+
+
+
+
+
+Tentei instalar o react-native-community/async-storage , parou de reclamar, mas agora fica avisando que essa biblioteca é obsoleta que devo atualizar pra biblioteca que eu tava usando mas que tava dando problema.
 
 
 
@@ -68,7 +74,7 @@ precisei adicionar no babel.config.js o seguinte:
 
 ficando dessa forma:
 
-<img src="C:\Users\barce\AppData\Roaming\Typora\typora-user-images\babel-config.png" alt="image-20220611223440227" />
+<img src="C:\Users\barce\AppData\Roaming\Typora\typora-user-images\babel-config.png" alt="babel-config" />
 
 
 
